@@ -9,7 +9,7 @@ I stopped working on this project after Minecraft 1.10.  Anyone may use my sourc
 Deposit ALL your loot into ALL the right boxes with a single slash command!
 Plus automatic inventory/chest sorting AND MORE!
 
-![comic](https://s24..cc/ny96ag6r9/comic.png)
+![comic](https://s24.postimg.cc/ny96ag6r9/comic.png)
 ![intelligent-inventory-header](https://s24.postimg.cc/xyebj0w39/intelligent_inventory_header.png) 
 ​
 This plugin works very well for Minecraft 1.10, and some earlier versions are available for older versions of Minecraft. However, it will not be updated for future Minecraft versions because I've finally retired from Minecraft development (5 years of plugins!), and I'm moving on to develop indie games. :) You can follow me in my adventures here: 
